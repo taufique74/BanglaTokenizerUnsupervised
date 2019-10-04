@@ -29,4 +29,5 @@ then,
 ```
 #### Here is a comparison between this tokenizer, nltk, and SpaCy ####
 7308761 bengali sentences were tokenized for the comparison.
+SpaCy took the most time to tokenize, followed by nltk.
 ![alt comparison](https://github.com/taufique74/BanglaTokenizerUnsupervised/raw/master/comparison.png)
