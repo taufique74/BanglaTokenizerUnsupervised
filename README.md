@@ -4,7 +4,7 @@
 
 **It also seems like works well as a general purpose text tokenizer.**
 
-To train this model, prothom alo bangla news corpus was used. You can find the corpus [here](https://www.kaggle.com/furcifer/bangla-newspaper-dataset).
+To train this model, prothom alo bangla news corpus was used, scraped by [zabir-nabil](https://github.com/zabir-nabil). You can find the corpus [here](https://www.kaggle.com/furcifer/bangla-newspaper-dataset).
 
 ### Usage: ###
 At first, install SentencePiece with pip 
