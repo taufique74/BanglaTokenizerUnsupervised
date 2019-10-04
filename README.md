@@ -5,7 +5,7 @@
 To train this model, prothom alo bangla news corpus was used. You can find the corpus [here](https://www.kaggle.com/furcifer/bangla-newspaper-dataset).
 
 ### Usage: ###
-At first, install SentencePiece from pip 
+At first, install SentencePiece with pip 
 > pip install sentencepiece
 
 then,
