@@ -2,7 +2,6 @@
 ### This tokenizer is trained with Google's **SentencePiece**. ###
 [SentencePiece](https://github.com/google/sentencepiece) is an unsupervised text tokenizer and detokenizer mainly for Neural Network-based text generation systems where the vocabulary size is predetermined prior to the neural model training. 
 
-**It also seems like works well as a general purpose text tokenizer, and it's faster than nltk and SpaCy tokenizer.**
 
 To train this model, prothom alo bangla news corpus was used, scraped by [zabir-nabil](https://github.com/zabir-nabil). You can find the corpus [here](https://www.kaggle.com/furcifer/bangla-newspaper-dataset).
 
