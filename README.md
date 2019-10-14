@@ -27,7 +27,3 @@ then,
 >>>print([token.replace(u"\u2581", '') for token in tokenized])
 ['ক্রিকইনফো', 'জানিয়েছে', ',', 'আন্তর্জাতিক', 'ম্যাচের', 'চেয়ে', 'ঘরোয়া', 'ম্যাচে', '‘', 'জনসংখ্যা', 'তাত্ত্বিক', 'পরিচয়', '’', 'বেশি', 'প্রভাব', 'রাখে', 'টিকিট', 'ক্রয়ের', 'ক্ষেত্রে', '—', 'গবেষণায়', 'তার', 'প্রমাণ', 'পেয়েছে', 'ইংল্যান্ড', 'ও', 'ওয়েলস', 'ক্রিকেট', 'বোর্ড', '(', 'ইসিবি', ')।']
 ```
-#### Here is a comparison between this tokenizer, nltk, and SpaCy ####
-7308761 bengali sentences were tokenized for the comparison.
-SpaCy took the most time to tokenize, followed by nltk.
-![alt comparison](https://github.com/taufique74/BanglaTokenizerUnsupervised/raw/master/comparison.png)
